@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirfatehi
+- 👋 Hi, I’m @afat
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python security projects
